@@ -1,4 +1,5 @@
 # Improved TU Delft PhD Thesis Template
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 
 This is an improved version of the [TU Delft PhD thesis
 template](https://www.tudelft.nl/en/tu-delft-corporate-design/downloads/). It
