@@ -1,5 +1,4 @@
 # Improved TU Delft PhD Thesis Template
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 
 This is an improved version of the [TU Delft PhD thesis
 template](https://www.tudelft.nl/en/tu-delft-corporate-design/downloads/). It
@@ -83,3 +82,5 @@ This template is based on commit `ff9d073` of TU Delft's template
 the TeX document as '2013/07/08 v1.0 TU Delft dissertation class'),
 which was the latest available on 13-11-2018. Unfortunately, I did not
 have access to their repository.
+
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
